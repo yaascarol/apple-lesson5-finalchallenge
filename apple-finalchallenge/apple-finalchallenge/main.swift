@@ -7,12 +7,6 @@
 
 import Foundation
 
-
-//variaveis
-
-
-// funcoes
-
 var spellbookList: [String] = [];
 
 func spellbook(){
